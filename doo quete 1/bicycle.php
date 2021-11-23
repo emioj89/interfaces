@@ -11,6 +11,7 @@ require_once 'LightableInterface.php';
             {
                 return true;
             }
+                return false;
         }
 
         public function switchOff()
